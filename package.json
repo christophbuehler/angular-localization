@@ -51,5 +51,25 @@
     "moment": "^2.8.3",
     "phantomjs-prebuilt": "^2.1.4",
     "run-sequence": "^1.1.1"
+  },
+  "dependencies": {
+    "amdefine": "^1.0.1",
+    "destroy": "^1.0.4",
+    "ee-first": "^1.1.1",
+    "etag": "^1.7.0",
+    "fill-range": "^3.0.3",
+    "for-in": "^0.1.6",
+    "iconv-lite": "^0.4.15",
+    "mime-db": "^1.25.0",
+    "ms": "^0.7.2",
+    "on-finished": "^2.3.0",
+    "pkginfo": "^0.4.0",
+    "range-parser": "^1.2.0",
+    "semver": "^5.3.0",
+    "socket.io-client": "^1.7.2",
+    "statuses": "^1.3.1",
+    "unpipe": "^1.0.0",
+    "utile": "^0.3.0",
+    "when": "^3.7.7"
   }
 }
